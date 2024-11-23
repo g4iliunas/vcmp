@@ -1,0 +1,18 @@
+{
+    "servers": {
+        "listener": {
+            "address": "127.0.0.1",
+            "port": 55555
+        },
+        "websocket": {
+            "address": "127.0.0.1",
+            "port": 44444
+        }
+    },
+    "tor_service": {
+        "address": "127.0.0.1",
+        "port": 9050
+    },
+    "username": "synack",
+    "hostname": "k2ymtsva27pr4e7jdwbm2tkcm2znmhyanq27ye7pkjsuwos2wndqd7ad.onion"
+}
